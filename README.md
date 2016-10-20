@@ -1,4 +1,4 @@
-# VaiChove
+# VaiChover
 =================
 
 Utilização do Web Service da http://openweathermap.org/
