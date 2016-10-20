@@ -9,7 +9,7 @@ import com.sun.jersey.api.client.WebResource;
 
 public class TempoWebService {
 
-	private String APPID = "3355629b20fcacc6921f1dd4a923fef9";
+	private final String APPID = "3355629b20fcacc6921f1dd4a923fef9";
 
 	public String busqueTempoPorCidade(String cidade) {
 		Client c = Client.create();
